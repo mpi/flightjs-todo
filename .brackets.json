@@ -1,0 +1,20 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/hogan/test/index.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/components-bootstrap/js/bootstrap.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/components-bootstrap/js/button.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/flight/index.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/flight/lib/index.js",
+        "home/mpi/dev/tmp/flight-app/app/bower_components/flight/lib/utils",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/components-bootstrap/js/tab.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/components-bootstrap/js/modal.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/components-bootstrap/js/alert.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/jasmine/lib/jasmine-core/example/node_example/lib/jasmine_examples/Song.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/jasmine/lib/jasmine-core/example/node_example/lib/jasmine_examples/Player.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/jasmine/lib/jasmine-core/node_boot.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/components-bootstrap/js/transition.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/components-bootstrap/js/affix.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/hogan/web/builds/3.0.2/hogan-3.0.2.amd.js",
+        "/home/mpi/dev/tmp/flight-app/app/bower_components/jasmine/lib/jasmine-core/jasmine.js"
+    ]
+}

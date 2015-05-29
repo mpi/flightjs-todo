@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>todo-list</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/bower_components/components-bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/bower_components/components-bootstrap/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body class="container">
+
+    <div class="js-todo-list col-md-6">
+      <h2 class="page-header">Shopping List</h2>
+      <ul class="list-group">
+      </ul>
+      <form class="form">
+        <div class="input-group">
+          <input type="text" class="form-control input-lg" placeholder="Add new item..."></input>
+          <a href="#" class="js-add-todo-item btn btn-primary input-group-addon btn-lg">Add</a>
+        </div>
+      </form>
+    </div>   
+
+    <div class="js-todo-list col-md-6">
+      <h2 class="page-header">Household Duties</h2>
+      <ul class="list-group">
+      </ul>
+      <form class="form">
+        <div class="input-group">
+          <input type="text" class="form-control input-lg" placeholder="Add new item..."></input>
+          <a href="#" class="js-add-todo-item btn btn-primary input-group-addon btn-lg">
+            <span class="glyphicon glyphicon-plus"></span>
+          </a>
+        </div>
+      </form>
+    </div>   
+
+    <!--[if lt IE 9]>
+    <script src="/bower_components/es5-shim/es5-shim.js"></script>
+    <script src="/bower_components/es5-shim/es5-sham.js"></script>
+    <![endif]-->
+    <script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="/bower_components/components-bootstrap/js/bootstrap.min.js"></script>
+    <script src="/bower_components/requirejs/require.js" data-main="js/main.js"></script>
+
+  </body>
+</html>
